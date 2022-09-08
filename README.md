@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sojs-coding
-- 👀 I’m interested in c#, c++ and me!
-- 🌱 I’m currently learning modding on SuperWorldBox
+- 👀 I’m interested in gaming and surviving uni!
+- 🌱 I’m currently learning stuff.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
