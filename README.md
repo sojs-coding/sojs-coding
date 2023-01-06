@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sojs-coding
 - 👀 I’m interested in gaming and surviving uni!
-- 🌱 I’m currently learning stuff.
+- 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
