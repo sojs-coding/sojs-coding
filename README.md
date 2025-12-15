@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sojs-coding
-- 👀 I’m interested in gaming and surviving uni!
-- 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m @sojs-coding
+## I’m interested in gaming
+- Rocket League
+- BannerLord
+## Education
+I graduated with a degree in Computer Science.
 
 <!---
 sojs-coding/sojs-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
